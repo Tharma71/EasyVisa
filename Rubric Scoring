@@ -1,0 +1,46 @@
+Criteria	Ratings	  Points
+
+A. Exploratory Data Analysis  11/11
+i. Good job on defining the problem statement. -> 
+ii. Good job on understanding shape of data, types of attributes and statistical summary. -> 
+iii. Good job on performing univariate and bivariate analysis. -> 
+iv. Good job on deducing the relationship between the attributes. -> 
+v. Good job on illustrating the insights based on the EDA.	
+
+B. Data Pre-processing  4/4
+i. Good job on preparing the data for analysis by splitting into training and testing. -> 
+ii. Good job on identifying and treating the negative values in number of employees column. -> 
+iii. Good job on Identifying outliers and commenting on it.	
+
+C. Model Building - Bagging  7/7
+i. Good job on training the decision tree classifier with default parameters. -> 
+ii. Good job on training the bagging classifier with default parameters. -> 
+iii. Good job on training the random forest classifier with default parameters. -> 
+iv. Good job on commenting the model performance of all models.	
+
+D. Model Improvement - Bagging  10/10
+i. Good job on trying to improve the performance of the decision tree classifier using hyperparameter tuning with GridSearchCV. -> 
+ii. Good job on trying to improve the performance of the bagging classifier using hyperparameter tuning with GridSearchCV -> 
+iii. Good job on trying to improve the performance of the random forest classifier using hyperparameter tuning with GridSearchCV. -> 
+iv. Good job on commenting the model performance for all the models.	
+
+E. Model Building - Boosting  5/5
+i. Good job on training the Adaboost classifier with default parameters. -> 
+ii. Good job on training the Gradient boosting classifier with default parameters. -> 
+iii. Good job on commenting the model performance of all models.
+
+F. Model Improvement - Boosting  9/9
+i. Good job on trying to improve the performance of the adaboost classifier using hyperparameter tuning with GridSearchCV. -> 
+ii. Good job on trying to improve the performance of the gradient boosting classifier using hyperparameter tuning with GridSearchCV. -> 
+iii. Good job on training the stacking classifier. -> 
+iv. Good job on commenting the model performance for all the models.
+
+G. Actionable Insights & Recommendations  6/6
+i. Good job on comparing model performances and providing conclusion on the model performance comparison, key takeaways in form of important features identified. -> 
+ii. Good job on providing recommendations on profile of applicants for whom the visa can be approved and denied.	
+
+H. Presentation / Notebook - Overall quality  8/8
+i. Good job on maintaining the structure of notebook with a logical flow. -> 
+ii. Good job on maintaining the crispness in the document. -> 
+iii. Good job on maintaining the visual aspects of the documents with right alignment of plots and axis. -> 
+iV. Good job on providing conclusions and business recommendations.	
